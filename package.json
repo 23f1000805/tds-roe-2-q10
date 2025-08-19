@@ -1,0 +1,12 @@
+{
+  "name": "datadash-qa",
+  "version": "1.0.0",
+  "description": "Playwright scraper for DataDash QA",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}
